@@ -4,7 +4,7 @@ InputBox, url, Choose Shock Site, Input the URL of the shock site of your choice
 InputBox, url, Choose No. Of Windows, Input how many windows of the shock site the victim will see, , ,125
 MsgBox, 0, Get Ready..., LastDrive will start when you press OK
 sleep, %length%
-run, http://witu.net/lol.html
+run, http://example.com
 sleep, 10000
 loop, %loop%
 {
