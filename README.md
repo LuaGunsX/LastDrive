@@ -35,7 +35,7 @@ Once you have entered in the information, LastDrive will give you a last chance 
 room/building/state. Enjoy!
 
 # FAQ
-## Why does it not work on BSD/Linux/MacOS?
+## Why does it not work on BSD/Linux/MacOS/ChromeOS?
 It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, use Winetricks.
 ## Are you the creator of LastDrive?
 No, I am just preserving this.
