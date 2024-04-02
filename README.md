@@ -39,3 +39,5 @@ room/building/state. Enjoy!
 It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, use Winetricks.
 ## Are you the creator of LastDrive?
 No, I am just preserving this.
+## Will there be a BadUSB/Flipper Zero edition?
+Yes, eventually. You will just have to wait.
