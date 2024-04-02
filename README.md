@@ -2,8 +2,7 @@ WITU.NET AND LastDrive's CREATORS ARE NOT RESPONSIBLE FOR THE USE OF LastDrive. 
 
 You are totally responsible for the damages you do with this program, so don't come whining to us. This is not the official source code. If you want to learn about "Last Measure", this is not a good place to start. Instead look forward to the Screamer Wiki: https://screamer.wiki/Last_Measure. We are not affiliated with the GNAA in any way.
 # Installation
-On a USB Drive chosen to ONLY run LastDrive: Extract LastDrive.zip's files into the root directory of the thumb drive you will  
-be running it from. Voila! Installed!
+On a USB Drive chosen to ONLY run LastDrive: Extract LastDrive.zip's files into the root directory of the thumb drive you will be running it from. Voila! Installed!
 
 On a USB drive whose sole purpose is NOT to run LastDrive: Create a directory in your drive's root and extract the contents of LastDrive.zip into that directory. After this is done, delete the autorun.inf file located in the directory you made earlier.
 
