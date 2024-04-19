@@ -1,0 +1,11 @@
+REM Title: LastDrive-X
+REM Author: LuaGunsX
+REM Date: 2024-04-19
+REM Description: Continued cross-platform fork of LastDrive.
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://mantako.tripod.com"
+DELAY 500
+ENTER
