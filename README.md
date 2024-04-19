@@ -35,9 +35,12 @@ Once you have entered in the information, LastDrive will give you a last chance 
 room/building/state. Enjoy!
 
 # FAQ
-## Why does it not work on BSD/Linux/MacOS/ChromeOS?
-It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, use Winetricks.
+## Why does it not work on BSD/Linux/MacOS/ChromeOS/Amiga?
+It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, install Wine and then install Winetricks. For Amiga, we do not provide anything for that.
 ## Are you the creator of LastDrive?
 No, I am just preserving this.
 ## Will there be a BadUSB/Flipper Zero edition?
 Yes, eventually. You will just have to wait.
+## How do I change the default URL to the URL of my choice?
+### Windows, Linux, macOS and other systems
+First of all, download the latest version from the release page. Second of all, go to the WITU folder and open "LastDrive.ahk" with your [te](https://en.wikipedia.org/wiki/Windows_Notepad)[xt](https://en.wikipedia.org/wiki/Notepad%2B%2B) [edi](https://en.wikipedia.org/wiki/Visual_Studio_Code)[tor](https://www.vim.org/) of choice. Replace the URL with your desired URL. Voila! Done!
