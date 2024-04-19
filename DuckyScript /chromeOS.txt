@@ -7,6 +7,6 @@ REM Target: ChromeOS
 DELAY 500
 CTRL n
 DELAY 100
-STRING [redacted due to github policy]
+STRING mantako.tripod.com
 DELAY 50
 ENTER
