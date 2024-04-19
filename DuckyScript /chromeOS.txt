@@ -1,0 +1,12 @@
+REM Title: LastDrive-CHROME
+REM Author: LuaGunsX
+REM Date: 2024-04-19
+REM Description: Continued cross-platform fork of LastDrive.
+REM Target: ChromeOS
+
+DELAY 500
+CTRL n
+DELAY 100
+STRING [redacted due to github policy]
+DELAY 50
+ENTER
