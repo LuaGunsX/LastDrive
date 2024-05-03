@@ -36,7 +36,7 @@ room/building/state. Enjoy!
 
 # FAQ
 ## Why does it not work on BSD/Linux/MacOS/ChromeOS/Amiga?
-It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, install Wine and then install Winetricks. For Amiga, we do not provide anything for that.
+It is because you do not have AutoHotKey installed and only works on Windows. Wine may help with this though. To install AutoHotKey, install Wine and then install Winetricks. For Amiga, we do not provide anything for that. For ChromeOS, use the Flipper Zero.
 ## Are you the creator of LastDrive?
 No, I am just preserving this.
 ## Will there be a BadUSB/Flipper Zero edition?
